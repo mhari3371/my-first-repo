@@ -1,0 +1,31 @@
+{
+    "methodLibrary":
+    {
+        "login":
+        {
+            "Login to safety software$":
+            [
+                "Ls",
+                "login_to_lifeshield",
+                []
+            ],
+            "Login to LifeShield with User Account$":
+            [
+                "Ls",
+                "login_to_lifeshield",
+                []
+            ],
+            "Login to WebConfig$":
+            [
+                "CeSilver",
+                "login",
+                []
+            ],
+            "Login to WebConfig\\s+using\\s+fobserver$":
+            [
+                "CeSilver",
+                "CeApi_method_call",
+            ]
+        }
+    }
+}
